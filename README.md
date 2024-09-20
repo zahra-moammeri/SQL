@@ -1,2 +1,2 @@
 # SQL
-some sql projects
+some SQL projects in MySQL
